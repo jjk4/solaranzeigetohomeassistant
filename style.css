@@ -1,0 +1,10 @@
+#content{
+    margin: 1em;
+}
+#content-small{
+    margin: 1em;
+    width: 100%;
+    max-width: 80em;
+    margin: 0 auto;
+    padding: 0;
+}
